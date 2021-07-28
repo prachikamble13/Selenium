@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2021-07-27T21:48:12 IST" finished-at="2021-07-27T21:48:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2021-07-27T21:48:12 IST" finished-at="2021-07-27T21:48:13 IST">
+      <class name="TestNG.AfterClass">
+        <test-method status="PASS" signature="bc()[pri:0, instance:TestNG.AfterClass@1563da5]" name="bc" is-config="true" duration-ms="9" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNG.AfterClass@1563da5]" name="bm" is-config="true" duration-ms="2" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:TestNG.AfterClass@1563da5]" name="tc1" duration-ms="6" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNG.AfterClass@1563da5]" name="am" is-config="true" duration-ms="0" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNG.AfterClass@1563da5]" name="bm" is-config="true" duration-ms="0" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:TestNG.AfterClass@1563da5]" name="tc2" duration-ms="3" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNG.AfterClass@1563da5]" name="am" is-config="true" duration-ms="1" started-at="2021-07-27T21:48:13 IST" finished-at="2021-07-27T21:48:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+      </class> <!-- TestNG.AfterClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
